@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\lechen\desktop\minecraft-master\mission 4\mission 4\cube.h(66): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\lechen\desktop\minecraft-master\mission 4\mission 4\lable.h(42): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\lechen\desktop\minecraft-master\mission 4\mission 4\lable.h(34): error C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+c:\users\lechen\desktop\minecraft-master\mission 4\mission 4\lable.h(48): warning C4101: 'window': unreferenced local variable
+c:\users\lechen\desktop\minecraft-master\mission 4\mission 4\main.cpp(719): warning C4311: 'type cast': pointer truncation from 'MCI_OPEN_PARMS *' to 'DWORD'
+c:\users\lechen\desktop\minecraft-master\mission 4\mission 4\main.cpp(719): warning C4302: 'type cast': truncation from 'MCI_OPEN_PARMS *' to 'DWORD'
+c:\users\lechen\desktop\minecraft-master\mission 4\mission 4\main.cpp(726): warning C4311: 'type cast': pointer truncation from 'MCI_PLAY_PARMS *' to 'DWORD'
+c:\users\lechen\desktop\minecraft-master\mission 4\mission 4\main.cpp(726): warning C4302: 'type cast': truncation from 'MCI_PLAY_PARMS *' to 'DWORD'

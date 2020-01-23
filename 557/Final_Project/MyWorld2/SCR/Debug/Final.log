@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\lechen\desktop\myworld2\scr\lable.h(48): warning C4101: 'window': unreferenced local variable
+c:\users\lechen\desktop\myworld2\scr\main.cpp(648): error C2196: case value 'f' already used

@@ -1,0 +1,4 @@
+chmod +x move_hello.sh
+
+mkdir ~/test_dungeon_files/
+cp YOUR_TEST_FILE ~/test_dungeon_files/hello.rlg327

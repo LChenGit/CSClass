@@ -1,0 +1,3 @@
+C:/Users/lechen/Documents/HW557/03_sphere/CMakeFiles/HCI557_Multiple_Lights.dir
+C:/Users/lechen/Documents/HW557/03_sphere/CMakeFiles/ALL_BUILD.dir
+C:/Users/lechen/Documents/HW557/03_sphere/CMakeFiles/ZERO_CHECK.dir
