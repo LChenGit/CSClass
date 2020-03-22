@@ -1,0 +1,11 @@
+round_epochs,loss,acc,val_loss,val_acc,activation,batch_size,dropout,emb_output_dims,epochs,first_neuron,last_activation,losses,lr,optimizer,shape,weight_regulizer
+100,0.18121495817866282,0.09392523,0.18320895731449127,0.08395522,relu,32,0,None,100,32,softmax,mse,0.5,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,brick,None
+100,0.17953271434128842,0.10233645,0.18059702061895114,0.09701493,relu,32,0,None,100,32,softmax,mse,0.5,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,long_funnel,None
+100,0.00012926037747534777,0.9990654,0.005281160238508218,0.9682836,relu,32,0,None,100,32,softmax,mse,0.5,<class 'tensorflow.python.keras.optimizer_v2.adagrad.Adagrad'>,brick,None
+100,0.00014001300802090417,0.9990654,0.006303283462384299,0.95708954,relu,32,0,None,100,32,softmax,mse,0.5,<class 'tensorflow.python.keras.optimizer_v2.adagrad.Adagrad'>,long_funnel,None
+100,0.17915888292210125,0.10420561,0.17723881308712178,0.11380597,relu,32,0,None,100,32,softmax,mse,0.5,<class 'tensorflow.python.keras.optimizer_v2.rmsprop.RMSprop'>,brick,None
+100,0.1798130881284999,0.10093458,0.17686567488890975,0.11567164,relu,32,0,None,100,32,softmax,mse,0.5,<class 'tensorflow.python.keras.optimizer_v2.rmsprop.RMSprop'>,long_funnel,None
+100,0.17915888292210125,0.10420561,0.17723881153028404,0.11380597,relu,32,0,None,100,32,softmax,mse,5,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,brick,None
+100,0.17915888306136443,0.10420561,0.1772388097510409,0.11380597,relu,32,0,None,100,32,softmax,mse,5,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,long_funnel,None
+100,0.1795325454985984,0.10233645,0.18059685136844864,0.09701493,relu,32,0,None,100,32,softmax,mse,5,<class 'tensorflow.python.keras.optimizer_v2.adagrad.Adagrad'>,brick,None
+100,0.17981309030100565,0.10093458,0.17686567711296367,0.11567164,relu,32,0,None,100,32,softmax,mse,5,<class 'tensorflow.python.keras.optimizer_v2.adagrad.Adagrad'>,long_funnel,None
